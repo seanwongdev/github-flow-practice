@@ -1,2 +1,3 @@
-Student Names: Sean
+Student Names:
+Alice
 Bob
